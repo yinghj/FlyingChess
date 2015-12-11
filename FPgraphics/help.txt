@@ -1,0 +1,21 @@
+1. Roll the dice to begin.
+
+2. You can launch a piece whenever the dice shows 6.   
+
+3. Move a piece on the board clockwise with the number     
+of steps indicated by the dice. 
+
+4. When your piece meets your opponent's piece, you
+'eat' the piece by returning the opponent's piece 
+back to its hangar and continue moving your piece.
+If your piece lands on the shortcut spot where the
+opponent's piece landed, you will not 'eat' it.
+
+5. When your piece lands on the shortcut spots and 
+the color of your piece matches that of the shortcut
+spot, you can take the shortcut indicated by the 
+dotted arrow. After you took the shortcut, if the
+opponent's piece was there, you will 'eat' it.
+
+6. The game ends when a player has its four pieces
+landed in the center box.              
